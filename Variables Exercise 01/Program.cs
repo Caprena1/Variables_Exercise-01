@@ -51,9 +51,15 @@ namespace Variables_Exercise_01
             #endregion
 
             // TODO: Declare 5 constansts
-
-
+            const int time = 9;
+            const float year = 2019;
+            const char reply = 'X';
+            const double dollar = 54.00; 
+            const decimal cost = 3;
+           
             // TODO: Declare 2 variables of each type from the list above (1 pair for each) 
+
+
             // Make sure to use C# naming convention best practices (camelCase, PascalCase, etc...)
 
 
